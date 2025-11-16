@@ -1,0 +1,11 @@
+Requirements :
+
+1. Log levels : Should be able to log different category of logs like Info, Error, and Debug.
+2. Multiple outputs: Should be able to write logs in various destinations like Console, File, and Database.
+3. Configurable: Should provide flexibility to add/remove logging levels and destinations.
+
+Design Pattern Used:
+1. Singleton Pattern: To ensure there is only one instance of logging throughout the application.
+2. Chain of Responsibility (CoR) : CoR will be used to pass or delegate the message through a chain of handlers for filtering and processing.
+3. Observer Pattern: To write in different destinations. As soon as we have something to write we notify all the relevant destinations to log the message.
+4. Strategy Pattern: To encapsulate the algorithms for different log levels and outputs, allowing them to be interchangeable.

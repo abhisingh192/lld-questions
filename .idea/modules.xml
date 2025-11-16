@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ATM/ATM.iml" filepath="$PROJECT_DIR$/ATM/ATM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BookMyShow/BookMyShow.iml" filepath="$PROJECT_DIR$/BookMyShow/BookMyShow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cache/Cache.iml" filepath="$PROJECT_DIR$/Cache/Cache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chess/Chess.iml" filepath="$PROJECT_DIR$/Chess/Chess.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CricInfo/CricInfo.iml" filepath="$PROJECT_DIR$/CricInfo/CricInfo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Elevator/Elevator.iml" filepath="$PROJECT_DIR$/Elevator/Elevator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FoodDelivery/FoodDelivery.iml" filepath="$PROJECT_DIR$/FoodDelivery/FoodDelivery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/LLD questions.iml" filepath="$PROJECT_DIR$/.idea/LLD questions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Logger/Logger.iml" filepath="$PROJECT_DIR$/Logger/Logger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MusicStreaming/MusicStreaming.iml" filepath="$PROJECT_DIR$/MusicStreaming/MusicStreaming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ParkingLot/ParkingLot.iml" filepath="$PROJECT_DIR$/ParkingLot/ParkingLot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SnakeAndLadder/SnakeAndLadder.iml" filepath="$PROJECT_DIR$/SnakeAndLadder/SnakeAndLadder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Splitwise/Splitwise.iml" filepath="$PROJECT_DIR$/Splitwise/Splitwise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StackOverflow/StackOverflow.iml" filepath="$PROJECT_DIR$/StackOverflow/StackOverflow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TrafficControlSystem/TrafficControlSystem.iml" filepath="$PROJECT_DIR$/TrafficControlSystem/TrafficControlSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Uber/Uber.iml" filepath="$PROJECT_DIR$/Uber/Uber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VendingMachine/VendingMachine.iml" filepath="$PROJECT_DIR$/VendingMachine/VendingMachine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ecomm/ecomm.iml" filepath="$PROJECT_DIR$/ecomm/ecomm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tic-tac-toe/tic-tac-toe.iml" filepath="$PROJECT_DIR$/tic-tac-toe/tic-tac-toe.iml" />
+    </modules>
+  </component>
+</project>
